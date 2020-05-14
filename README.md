@@ -1,4 +1,6 @@
-# **Welcome to my humble Portfolio on GItHub**
+# **Portfolio**
+
+Welcome to my humble Portfolio on GItHub
 
 ### The template was downloaded from HTML5 UP:
 https://html5up.net/
